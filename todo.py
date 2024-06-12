@@ -90,3 +90,4 @@ if __name__ == "__main__":
     root.geometry("800x600")
     app = ToDoApp(root, todos = [])
     root.mainloop()
+    
